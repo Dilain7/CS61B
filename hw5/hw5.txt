@@ -1,0 +1,27 @@
+
+HW #5.
+
+Question D.
+
+1. Theta(x**2)
+
+
+2. Theta(log(x))
+
+
+3. Theta(N**3)
+
+
+4. Theta(N+M)
+
+
+5. Theta(n*log(n))
+
+
+6. Theta log_10(fx)
+
+
+7. 0(log(x))
+
+
+8. 0(f(n)
